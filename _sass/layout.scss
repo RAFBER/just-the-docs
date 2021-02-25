@@ -6,7 +6,7 @@
   z-index: 0;
   display: flex;
   flex-wrap: wrap;
-  background-color: $white;
+  background-color: $red;
 
   @include mq(md) {
     flex-wrap: nowrap;
