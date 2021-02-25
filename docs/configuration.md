@@ -20,7 +20,7 @@ Just the Docs has some specific configuration parameters that can be defined in 
 ---
 
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
+View this site's [_config.yml](https://github.com/RAFBER/just-the-docs/tree/master/_config.yml) file as an example.
 
 
 ## Site logo
@@ -68,7 +68,7 @@ search:
 # Aux links for the upper right navigation
 aux_links:
   "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+    - "//github.com/RAFBER/just-the-docs"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -100,7 +100,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/pmarsceill/just-the-docs" # the github URL for your repo
+gh_edit_repository: "https://github.com/RAFBER/just-the-docs" # the github URL for your repo
 gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
