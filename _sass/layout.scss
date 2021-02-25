@@ -6,7 +6,7 @@
   z-index: 0;
   display: flex;
   flex-wrap: wrap;
-  background-color: $red;
+  background-color: $sidebar-color;
 
   @include mq(md) {
     flex-wrap: nowrap;
